@@ -5,9 +5,9 @@ I am an aspiring **Full-Stack Software Engineer**, currently undertaking ALX SE 
 ---
 ### Languages and Tools
 <p align="center">
-    <img align="left" width="26px" style="max-width: 100%;" src="https://skillicons.dev/icons?i=html,css,js,py,bash,c,ai,ps,xd,git,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,c,ai,ps,xd,git,linux" />
 </p>
-####
+---
 ![Don's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbao-don&show_icons=true&theme=merko)
 <!--
 **dbao-don/dbao-don** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
