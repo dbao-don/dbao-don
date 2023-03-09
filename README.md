@@ -1,10 +1,10 @@
 # Donbosco A Otunga
 **`Software Engineer | UI/UX Designer`**  
-I am an aspiring **Full-Stack Software Engineer**, currently undertaking ALX SE Program as from Jan 1, 2023.  
+I am an aspiring Full-Stack Software Engineer, currently undertaking ALX SE Program as from Jan 1, 2023.  
   All my projects are an essentric view to my thought process. From educational projects to personal projects included here potray my different fields of interest. I am currently enhancing my skill set to ensure efficiency and productivity in coming up with meaningful solutions to problems.
 ---
 ### Languages and Tools
-<p align="center">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,c,ai,ps,xd,git,linux" />
 </p>
 ---
